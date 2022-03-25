@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital@1&family=Nanum+Gothic&family=PT+Serif&family=Playfair+Display:ital@1&family=Prata&display=swap');
+div{
+    text-align: center;
+    background-color: bisque;
+    height: 920px;
+}
+h1{
+    color: green;
+}
+h2 {
+
+    color: indigo;
+}
+
+h3{
+
+    color: red;
+}
+h4{
+
+    color:yellow ;
+}
+h5 {
+    color: blue;
+}
+
+
+.font1{
+    font-family: 'Cabin', sans-serif;
+}
+.font2{
+    font-family: 'Nanum Gothic', sans-serif;
+}
+.font3{
+    font-family: 'Playfair Display', serif;
+}
+.font4{
+    font-family: 'Prata', serif;
+
+}
+.font5{
+    font-family: 'PT Serif', serif;
+}
